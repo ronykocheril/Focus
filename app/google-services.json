@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "563112017755",
+    "firebase_url": "https://focus-8fa05.firebaseio.com",
+    "project_id": "focus-8fa05",
+    "storage_bucket": "focus-8fa05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563112017755:android:429b61d511299729",
+        "android_client_info": {
+          "package_name": "com.example.focus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563112017755-plrcfvfs3sko84o45bd8lbq0k73oubee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.focus",
+            "certificate_hash": "f672f706c8f873d200eb679dce250ead1f316585"
+          }
+        },
+        {
+          "client_id": "563112017755-e9i4qsc0sivmhigs1j7qapdd1v9hvs60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwPkmsf1org2jbR-JU507TQTvaBeRCt7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563112017755-e9i4qsc0sivmhigs1j7qapdd1v9hvs60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
